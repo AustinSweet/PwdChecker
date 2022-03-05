@@ -18,7 +18,7 @@ export default function Header(props){
             No text entered into this site is stored or cached in any way
             </div>
             <div>
-            If you want to verify, check out the source code <a href="">here</a>
+            If you want to verify, check out the source code <a href="https://github.com/AustinSweet/PwdChecker">here</a>
             </div>
             <hr></hr>
             <div>
